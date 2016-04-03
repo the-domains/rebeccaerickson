@@ -1,7 +1,7 @@
 name: Rebecca Erickson
 favicon: null
-layout_spectrum: 0.35738
-typography_spectrum: 0.38809
+layout_spectrum: 1
+typography_spectrum: 0.49278
 title: Mixed Media Artist
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060606'
-    - '#9b001e'
-    - '#de4923'
-    - '#a29d7a'
-    - '#5d3f18'
+    - '#000000'
+    - '#7b6b09'
+    - '#fffeb3'
+    - '#d8be11'
+    - '#3a2e00'
   brandStrength: 0.5147451548837125
-  lightness: 0.9229587912559509
-  saturation: 0.36187838786281645
-  rhythmicContrast: 0.843827678821981
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
