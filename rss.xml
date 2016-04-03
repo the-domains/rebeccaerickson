@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mixed Media Artist]]></title>
+        <description><![CDATA[Mixed Media Artist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Apr 2016 21:58:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Preserved -  2012 - This project was completed in collaboration with Fourfold Farm, a biodynamic farm north of Guelph, Ontario. Thank you to Whitestone Gallery, the Ontario Arts Council, 10 Carden Street and the Guelph Public library for exhibition support.</p>]]></description>
+            <link>undefinedpreserved-2012-this-project-was-completed-in-collaborat/index.html</link>
+            <guid isPermaLink="false">99f4ec7c-73eb-4dc6-a891-3e5f89f225e0</guid>
+            <pubDate>Sun, 03 Apr 2016 21:57:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
